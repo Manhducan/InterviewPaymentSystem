@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "type": "ELECTRIC",
+    "amount": 200000,
+    "dueDate": "25/10/2020",
+    "state": "NOT_PAID",
+    "provider":"EVN HCMC"
+  },
+  {
+    "id": 2,
+    "type": "WATER",
+    "amount": 175000,
+    "dueDate": "30/10/2020",
+    "state": "NOT_PAID",
+    "provider":"SAVACO HCMC"
+  },
+  {
+    "id": 3,
+    "type": "INTERNET",
+    "amount": 800000,
+    "dueDate": "30/11/2020",
+    "state": "NOT_PAID",
+    "provider":"VNPT"
+  }
+]
+
